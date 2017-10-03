@@ -1,0 +1,39 @@
+# GIT
+
+URL: http://devdocs.io/git/
+
+## Các lệnh cơ bản bắt buộc phải thuộc và git workflow 
+- `git init`
+- `git clone`
+- `git status`
+- `git add`
+- `git commit`
+- `git pull`
+- `git push`
+- `git checkout`
+- `git branch`
+- `git mergetool`
+- `git rebase`
+- `git remote`
+- `git log`
+- `git reset`
+
+
+
+# Install - Prerequisite
+1. Atom - https://flight-manual.atom.io/getting-started/sections/installing-atom/
+2. Git - https://git-scm.com/book/id/v2/Getting-Started-Installing-Git
+
+## React
+1. Nodejs & npm
+  1.1 Windows - https://wsvincent.com/install-node-js-npm-windows/
+  1.2 Mac - http://blog.teamtreehouse.com/install-node-js-npm-mac
+2. Meteor - https://www.meteor.com/install
+3. MongoDB
+  3.1 Windows - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+  3.2 Mac - https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
+
+## PHP
+1. Apache
+2. MySQL
+3. Laravel
